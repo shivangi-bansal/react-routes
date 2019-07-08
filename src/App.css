@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.men {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(73, 79, 82);
+  color:white;
+}
+ li{
+  display: inline;
+  padding: 14px;  
+}
+
